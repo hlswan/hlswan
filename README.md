@@ -1,7 +1,6 @@
 # Hello there!
 
 ## Projects I am working on:
-[hlswan/Simple2DGame](https://github.com/hlswan/DuckGame)
+[hlswan/MCSR Database](https://github.com/hlswan/MCSR-database)
 
-## Finished projects
-[hlswan/JoyOfCoding](https://github.com/hlswan/TheJoyOfCoding)
+
